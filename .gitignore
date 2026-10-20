@@ -1,0 +1,6 @@
+# Editor- und temporäre Dateien
+.vscode/
+*.log
+*.tmp
+*~
+.DS_Store
